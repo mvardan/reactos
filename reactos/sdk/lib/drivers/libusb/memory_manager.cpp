@@ -10,7 +10,7 @@
 
 #include "libusb.h"
 
-#define NDEBUG
+//#define NDEBUG
 #include <debug.h>
 
 class CDMAMemoryManager : public IDMAMemoryManager
