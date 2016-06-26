@@ -10,7 +10,7 @@
 
 #include "usbuhci.h"
 
-#define NDEBUG
+//#define NDEBUG
 #include <debug.h>
 
 class CUSBQueue : public IUHCIQueue
