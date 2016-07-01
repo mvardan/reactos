@@ -10,7 +10,7 @@
 
 #include "usbohci.h"
 
-#define NDEBUG
+//#define NDEBUG
 #include <debug.h>
 
 class CUSBRequest : public IOHCIRequest
